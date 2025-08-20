@@ -10,18 +10,21 @@ It uses **Supabase** for authentication & backend, styled with **TailwindCSS**, 
 [![PWA](https://img.shields.io/badge/PWA-Progressive%20Web%20App-orange)](https://web.dev/progressive-web-apps/)
 [![Vite](https://img.shields.io/badge/Vite-Bundler-cyan?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Netlify](https://img.shields.io/badge/Netlify-Deploy-00C7B7?logo=netlify&logoColor=white)](https://www.netlify.com/)
+[![Biome](https://img.shields.io/badge/Biome-Linter%20%26%20Formatter-60A5FA?logo=biome&logoColor=white)](https://biomejs.dev/)
 [![MIT License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 
 ---
 
 ## 🚀 App Features
-- 📚 **80+ experiments** with step-by-step instructions  
-- 🔎 **Smart filters** (age, theme, mess level, supervision, reusable)  
+
+- 📚 **40+ experiments** with step-by-step instructions
+- 🔎 **Smart filters** (age, theme, mess level, supervision, reusable)
 - ❤️ **Favorites** to save experiments
 
 ---
 
 ## 🚀 Tech Features
+
 - 📱 **Progressive Web App (PWA)**: Installable on Android & iOS.
 - 🌗 **Light/Dark Mode**: Built-in theme switching using TailwindCSS.
 - 🔑 **Authentication**: Supabase Auth (Email/Password, OAuth options).
@@ -32,10 +35,12 @@ It uses **Supabase** for authentication & backend, styled with **TailwindCSS**, 
 ---
 
 ## ⚠️ Disclaimer
+
 KidLab experiments and content are intended for **educational purposes only**.  
 Always supervise children during activities. KidLab and its contributors are **not liable** for misuse or accidents.
 
 ---
 
 ## 📜 License
+
 MIT © KidLab Developers
